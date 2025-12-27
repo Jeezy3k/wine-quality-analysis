@@ -23,7 +23,7 @@ This project analyzes the Wine Quality Dataset to understand the relationships b
 
 **Source**: [Wine Quality Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
-**Citation**: Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Wine Quality [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T
+**Citation**: Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Wine Quality [Dataset]. UCI Machine Learning Repository
 
 **Features**:
 - Fixed acidity, volatile acidity, citric acid
